@@ -1,0 +1,31 @@
+﻿  boss.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  employee.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\employee.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\manager.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\employee.cpp(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  manager.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\manager.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\manager.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  work.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  职工管理系统.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\职工管理系统.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\employee.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\manager.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+职工管理系统.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall boss::~boss(void)" (??1boss@@QAE@XZ)，函数 _main 中引用了该符号
+C:\Users\acer\Desktop\C++\Project0\Debug\Project0.exe : fatal error LNK1120: 1 个无法解析的外部命令

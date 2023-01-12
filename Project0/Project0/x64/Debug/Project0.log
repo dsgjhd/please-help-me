@@ -1,0 +1,19 @@
+﻿  work.cpp
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\worker.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(6,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(7,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\employee.h(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(8,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\boss.h(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.h(9,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\manager.h(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(5,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(194,11): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(198,12): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(202,12): warning C4804: “<”: 在操作中使用类型“bool”不安全
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(256,20): warning C4552: ”-“: 未使用表达式结果
+C:\Users\acer\Desktop\C++\Project0\Project0\work.cpp(257,28): warning C4552: ”<“: 未使用表达式结果
+  Project0.vcxproj -> C:\Users\acer\Desktop\C++\Project0\x64\Debug\Project0.exe
